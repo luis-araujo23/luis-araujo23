@@ -68,45 +68,6 @@ Hi, I'm Luis Araujo!
 </p>
 </br>
 
-## <a href="https://github.com/Bouaskaoun"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
-
-<br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=bouaskaoun&show_icons=true" alt="bouaskaoun">
-	<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=bouaskaoun" alt="bouaskaoun">
-	</a>
-	<br/>
-</p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-		<img src="https://activity-graph.herokuapp.com/graph?username=bouaskaoun&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="bouaskaoun">
-	</a>
-</p>
-<br/>
--->
-<summary><b>⚡ Top Languages</b></summary>
-<br/>
-
-<p align="center">
-	<a href="https://github.com/Bouaskaoun">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bouaskaoun&langs_count=8&layout=compact" alt="bouaskaoun">
-	</a>
-	<br/>
-<br/>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</p>
-<br/>
-
-<table style="border: none">
-  <tr>
-  <td width="50%" valign="top">
 
 ## Let's Work on Your Project Together!
 
